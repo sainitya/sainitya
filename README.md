@@ -2,14 +2,12 @@
 `sai@github:~$ whoami`
 
 ```
-Sai — Senior Full Stack Developer
+Sai — Senior Software Developer
 Senior Developer @ Dex Clothing · Montreal, Canada
-Focus:  Full Stack · APIs · Data Pipelines · Cloud
+Focus:  Full Stack · APIs · AI/LLM Automation · CI/CD
 Status: ✓ Open to Senior Full Stack / Backend roles
 ```
-
-I build reliable web products and the data systems behind them. ~7 years shipping production code — from high-traffic customer portals and payment flows at FlightHub to owning development, data and infrastructure at Dex Clothing.
-
+I design, build and own software end to end — from architecture and API design to CI/CD and production. 7 years across the stack with React, Node.js, TypeScript and Python, from high-traffic customer portals and payment flows at FlightHub to owning development, data and infrastructure at Dex Clothing. I bring AI/LLM features into real workflows and work closely with business and ops teams to turn messy problems into systems that scale.
 
 
 * 🔭 Currently — Senior Developer at Dex Clothing, the primary developer across apps, BI and systems.
@@ -38,4 +36,4 @@ $ history | tail -3
 ```
 
 * **Dex Clothing** — Senior Developer (2024–now)
-* **FlightHub** — Built APIs and React components for a self-service portal automating refunds and upsells; integrated payment gateways; Dockerized services.
+* **FlightHub** — Built pricing, booking, search and automated refund/upsell services for a self-service travel portal serving millions of customers a year (PHP/Laravel, Node.js, TypeScript, React · MySQL, MongoDB, Redis · Google Cloud). Integrated Twilio Voice and Chat for high-volume support, built an internal support dashboard with Zendesk + ClickHouse, and redesigned IVR call flows to cut call abandonment.
